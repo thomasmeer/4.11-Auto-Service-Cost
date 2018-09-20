@@ -1,3 +1,4 @@
 # 4.11-Auto-Service-Cost
 Zybook partner project
-Auot_service = input('Enter desried auot service:\n')
+Auto_service = input('Enter desried auto service:\n')
+print('You entered:', auto_service)
